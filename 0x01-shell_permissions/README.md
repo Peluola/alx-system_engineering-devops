@@ -20,3 +20,4 @@ Write a script that changes the owner of the file hello to betty only if it is o
 Write a script that changes the owner of the file hello to betty only if it is owned by the user guillaume
 Write a script that will play the StarWars IV episode in the terminal
 Write a script that changes the owner of the file hello to betty only if it is owned by the user guillaume
+Write a script that sets the mode of the file hello the same as olleh’s mode
